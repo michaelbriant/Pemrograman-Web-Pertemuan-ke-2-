@@ -1,0 +1,38 @@
+p {
+    font-size: 150%;
+}
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 200%;
+}
+
+#peachbox {
+    padding: 16px;
+    background-color: #FFDAB9;
+    height: 100px;
+}
+
+#babybluebox {
+    padding: 16px;
+    background-color: #ADD8E6;
+    height: 100px;
+}
+
+#softpinkbox {
+    padding: 16px;
+    background-color: #FFE4E1;
+    height: 100px;
+}
+
+#lavenderbox {
+    padding: 16px;
+    background-color: #E6E6FA;
+    height: 100px;
+}
+
+#softgreenbox {
+    padding: 16px;
+    background-color: #F0FFF0;
+    height: 100px;
+}
